@@ -74,4 +74,4 @@ You can check out the final [`report.pdf`](./report/report.pdf).
 - Noemi Bongiorni ([@NoemiBongiorni](https://github.com/NoemiBongiorni))
 - Simone Licciardi ([@simone-licciardi](https://github.com/simone-licciardi))
 - Alessandro Pedone ([@alessandropedone](https://github.com/alessandropedone))
-- Federico Maria Riva ([@fede-mat](https://https://github.com/fede-mat))
+- Federico Maria Riva ([@fede-mat](https://github.com/fede-mat))
